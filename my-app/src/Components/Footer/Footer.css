@@ -1,9 +1,9 @@
-footer p {
+.footer p {
   color: black;
   font-weight: 400;
 }
 
-footer {
+.footer {
   text-align: center;
   padding: 10px;
   background: rgb(219, 207, 207);
