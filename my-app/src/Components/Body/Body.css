@@ -1,0 +1,50 @@
+.body {
+  height: auto;
+  width: auto;
+}
+
+.content {
+  margin: 80px 10px;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border: 1px solid #ddd;
+}
+
+.middle{
+  margin: 20px;
+  padding: 20px;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.card {
+  padding: 15px;
+  border: 2px solid #ddd;
+  background-color: #f9f9f9;
+}
+
+.card h3 {
+  color: #cc6666;
+  margin-bottom: 10px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(31, 57, 80);
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: rgb(219, 207, 207);
+}
+
+footer p {
+  color: black;
+  font-weight: 400;
+}

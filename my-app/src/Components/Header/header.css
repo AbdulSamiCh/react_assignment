@@ -1,0 +1,43 @@
+header {
+    height: 70px;
+    width: 1390px;
+    top: 0px;
+    position: absolute;
+    background: rgb(219, 207, 207);
+}
+
+.logo {
+    color: blue;
+    margin: 10px 100px;
+  
+}
+.unordered {
+    list-style: none;
+    position: absolute;
+    right: 300px;
+    top: -5px;
+    display: flex;
+}
+.unordered li {
+    margin: 15px;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 700;
+    color: rgb(63, 63, 70);
+}
+
+.btn {
+    border-radius: 5px;
+    position: absolute;
+    right: 100px;
+    top: 17px;
+    width: 100px;
+    background: navajowhite;
+    height: 30px;
+}
+.btn:hover {
+    background: green;
+    color: white;
+    cursor: pointer;
+    border: yellow 2px solid;
+}
