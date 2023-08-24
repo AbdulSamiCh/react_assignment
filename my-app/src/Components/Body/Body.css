@@ -38,13 +38,3 @@ p {
     color: rgb(31, 57, 80);
 }
 
-footer {
-    text-align: center;
-    padding: 10px;
-    background: rgb(219, 207, 207);
-}
-
-footer p {
-  color: black;
-  font-weight: 400;
-}
