@@ -34,9 +34,6 @@ const Body = () => {
           </p>
         </div>
       </div>
-      <footer>
-        <p>&copy; 2023 QotSite Company. All rights reserved.</p>
-      </footer>
     </div>
   )
 }
